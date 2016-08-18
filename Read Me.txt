@@ -1,0 +1,5 @@
+The goal of this game is to kick the sleepwalker(on the top-right side) out of his house(the door is at the bottom-right). 
+By pushing the blocking boxes to certain locations, the route of the sleepwalker will change.
+Once there is a wall or a box in front of the sleepwalker, the priority of changing direction is turn LEFT > turn RIGHT > turn AROUND.
+The game seems easy but it take some consideration before moving the boxes. Because the sleepwalker is moving, so it would be better if the player could think several steps ahead.
+Enjoy!
